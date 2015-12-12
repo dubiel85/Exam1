@@ -1,0 +1,23 @@
+.square {
+    height: 100px;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.row {
+    width: 1200px;
+}
+
+.white:hover {
+    background-color: blue;
+}
+
+.black:hover {
+    background-color: green;
+}
